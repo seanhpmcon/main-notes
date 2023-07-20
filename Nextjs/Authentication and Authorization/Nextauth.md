@@ -1,0 +1,1 @@
+when using the default session store for nextauth, only the session callback is needed. Maybe the jwt callback is needed for only the jwt strategy.

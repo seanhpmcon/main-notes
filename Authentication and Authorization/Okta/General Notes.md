@@ -1,0 +1,1 @@
+Set scope to openid to be able to get an id token in the response

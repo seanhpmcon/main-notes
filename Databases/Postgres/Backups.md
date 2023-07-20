@@ -1,0 +1,1 @@
+Using the DBeaver, you can backup/import or restore a database using a .tar file
