@@ -1,0 +1,1 @@
+USB explanation and implementation video -> https://www.youtube.com/watch?v=HbQ6q3skZgw

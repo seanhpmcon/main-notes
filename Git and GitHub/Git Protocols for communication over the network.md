@@ -1,0 +1,1 @@
+URL to website with information -> https://git-scm.com/book/en/v2/Git-on-the-Server-The-Protocols#:~:text=Finally%2C%20we%20have%20the%20Git,absolutely%20no%20authentication%20or%20cryptography.

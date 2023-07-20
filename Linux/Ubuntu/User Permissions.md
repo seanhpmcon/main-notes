@@ -1,0 +1,1 @@
+To give read, write and execute permissions to all users for that directory, use `sudo chmod a+rw .` to do this.

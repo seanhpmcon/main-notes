@@ -1,0 +1,1 @@
+Explanation of the RS 232 Serial Communication Protocol Video -> https://www.youtube.com/watch?v=Qx2d20elziw&list=TLPQMTYwNzIwMjOhZNji4klFRQ&index=2
