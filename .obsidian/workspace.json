@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Authentication and Authorization/Keycloak/Nextauth Implementation.md",
+                "file": "Git and GitHub/Pushing Changes to GitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Authentication and Authorization/Keycloak/Nextauth Implementation.md",
+                "file": "Git and GitHub/Pushing Changes to GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Authentication and Authorization/Keycloak/Nextauth Implementation.md",
+                "file": "Git and GitHub/Pushing Changes to GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Authentication and Authorization/Keycloak/Nextauth Implementation.md"
+                "file": "Git and GitHub/Pushing Changes to GitHub.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "755c88d623ec30fc",
+  "active": "ea1b91e076930b57",
   "lastOpenFiles": [
-    "Nextjs/Authentication and Authorization/Nextauth.md",
+    "Communication/I2C/Communication on Devices.md",
     "Authentication and Authorization/Keycloak/Nextauth Implementation.md",
+    "Communication/I2C",
+    "Nextjs/Authentication and Authorization/Nextauth.md",
     "Authentication and Authorization/Okta/General Notes.md",
     "C++/G++ Compiler/Run Basic Program.md",
     "Nextjs/Prisma/Postgres.md",
@@ -167,7 +169,6 @@
     "Windows/High Memory Usage",
     "Windows",
     "Nextjs/Setup.md",
-    "Nextjs/Prisma",
     "Docker/VS Code Dev Containers/Initializing dev containers.md",
     "Nextjs/JavaScript and Nextjs/Passing a variable from Nextjs to JavaScript.md",
     "Databases/Postgres/Backups.md",
