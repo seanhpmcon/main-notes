@@ -1,0 +1,1 @@
+Devices need to be SNMP compatible to be monitored through that means in a network.

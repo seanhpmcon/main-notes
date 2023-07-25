@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git and GitHub/Pushing Changes to GitHub.md",
+                "file": "Windows/Visual Studio/Solution File Explained.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git and GitHub/Pushing Changes to GitHub.md",
+                "file": "Windows/Visual Studio/Solution File Explained.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git and GitHub/Pushing Changes to GitHub.md",
+                "file": "Windows/Visual Studio/Solution File Explained.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git and GitHub/Pushing Changes to GitHub.md"
+                "file": "Windows/Visual Studio/Solution File Explained.md"
               }
             }
           }
@@ -146,8 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea1b91e076930b57",
+  "active": "755c88d623ec30fc",
   "lastOpenFiles": [
+    "Networking/SNMP/General SNMP Notes.md",
+    "Windows/Visual Studio/Solution File Explained.md",
+    "Windows/Visual Studio",
+    "IoT/IoT Real-Time Webserver.md",
+    "Networking/SNMP",
+    "IoT/General Glossary Terms.md",
+    "Git and GitHub/Pushing Changes to GitHub.md",
+    "IoT",
+    "PHP/Untitled",
     "Communication/I2C/Communication on Devices.md",
     "Authentication and Authorization/Keycloak/Nextauth Implementation.md",
     "Communication/I2C",
@@ -156,7 +165,6 @@
     "C++/G++ Compiler/Run Basic Program.md",
     "Nextjs/Prisma/Postgres.md",
     "C++/G++ Compiler",
-    "Untitled",
     "C++",
     "Ecommerce/Site/Requirements.md",
     "Ecommerce/Databases/Resources.md",
@@ -164,10 +172,7 @@
     "Windows/High Memory Usage/VmmemWSL.md",
     "Ecommerce/Site",
     "Ecommerce/Marketplace",
-    "Ecommerce",
     "Nextjs/Prisma/Setup Prisma in a Nextjs app.md",
-    "Windows/High Memory Usage",
-    "Windows",
     "Nextjs/Setup.md",
     "Docker/VS Code Dev Containers/Initializing dev containers.md",
     "Nextjs/JavaScript and Nextjs/Passing a variable from Nextjs to JavaScript.md",
@@ -179,9 +184,6 @@
     "eccommerce-portfolio/Hosting and Deployment/General Hosting and Deployment.md",
     "eccommerce-portfolio/Backend/General Backend.md",
     "eccommerce-portfolio/Frontend/General FrontEnd.md",
-    "eccommerce-portfolio/Database/General Database.md",
-    "eccommerce-portfolio/General Project Design.md",
-    "Untitled.canvas",
-    "Okta.md"
+    "Untitled.canvas"
   ]
 }
