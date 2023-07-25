@@ -1,0 +1,1 @@
+Use the command `git fetch origin` to get the changes from the GitHub repository

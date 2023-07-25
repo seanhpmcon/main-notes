@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Visual Studio/Solution File Explained.md",
+                "file": "Git and GitHub/Fetch changes from GitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Visual Studio/Solution File Explained.md",
+                "file": "Git and GitHub/Fetch changes from GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Visual Studio/Solution File Explained.md",
+                "file": "Git and GitHub/Fetch changes from GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Visual Studio/Solution File Explained.md"
+                "file": "Git and GitHub/Fetch changes from GitHub.md"
               }
             }
           }
@@ -148,13 +148,18 @@
   },
   "active": "755c88d623ec30fc",
   "lastOpenFiles": [
-    "Networking/SNMP/General SNMP Notes.md",
+    "Git and GitHub/Setup of local git repository for collaboration.md",
+    "Git and GitHub/Fetch changes from GitHub.md",
+    "Git and GitHub/Pushing Changes to GitHub.md",
+    "Git and GitHub/Git Protocols for communication over the network.md",
+    "Git and GitHub/A Git Repository.md",
+    "Git and GitHub/Applying local changes to GitHub.md",
     "Windows/Visual Studio/Solution File Explained.md",
+    "Networking/SNMP/General SNMP Notes.md",
     "Windows/Visual Studio",
     "IoT/IoT Real-Time Webserver.md",
     "Networking/SNMP",
     "IoT/General Glossary Terms.md",
-    "Git and GitHub/Pushing Changes to GitHub.md",
     "IoT",
     "PHP/Untitled",
     "Communication/I2C/Communication on Devices.md",
@@ -179,11 +184,6 @@
     "Databases/Postgres/Backups.md",
     "Databases/Postgres/Postgres Docker.md",
     "Docker/Connection issues.md",
-    "Untitled.md",
-    "eccommerce-portfolio/Authentication and Authorization/General Authentication and Authorization.md",
-    "eccommerce-portfolio/Hosting and Deployment/General Hosting and Deployment.md",
-    "eccommerce-portfolio/Backend/General Backend.md",
-    "eccommerce-portfolio/Frontend/General FrontEnd.md",
     "Untitled.canvas"
   ]
 }
