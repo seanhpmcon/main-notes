@@ -1,0 +1,1 @@
+`git init --bare project-dir.git`
