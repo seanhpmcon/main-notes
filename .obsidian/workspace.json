@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git and GitHub/Pushing Changes to GitHub.md",
+                "file": "Git and GitHub/Pulling changes from GitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git and GitHub/Pushing Changes to GitHub.md",
+                "file": "Git and GitHub/Pulling changes from GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git and GitHub/Pushing Changes to GitHub.md",
+                "file": "Git and GitHub/Pulling changes from GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git and GitHub/Pushing Changes to GitHub.md"
+                "file": "Git and GitHub/Pulling changes from GitHub.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "755c88d623ec30fc",
   "lastOpenFiles": [
+    "Git and GitHub/Pushing Changes to GitHub.md",
     "Networking/HTTPS and SSL/HTTPS and SSL with Multiple Servers across a Load Balancer.md",
     "Networking/HTTPS and SSL/HTTPS and SSL with Reverse Proxy.md",
     "Nextjs/Production Build.md",
@@ -155,7 +156,6 @@
     "Nextjs/Work Production Build with Nginx.md",
     "Databases/SQL Server/SQL Server Container.md",
     "Nextjs/Mongo/Connecting To Mongo DB client.md",
-    "Git and GitHub/Pushing Changes to GitHub.md",
     "Databases/SQL Server",
     "Nextjs/Configurations/Next Config.md",
     "Nextjs/Configurations",
