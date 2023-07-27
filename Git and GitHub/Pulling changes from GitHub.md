@@ -1,1 +1,1 @@
-Use the following command `git fetch origin` to get changes from the remote repo and use `git merge origin/<branch_name>` to merge the files together.
+git  git Use the following command `git fetch origin` to get changes from the remote repo and use `git merge origin/<branch_name>` to merge the files together.

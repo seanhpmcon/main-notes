@@ -1,5 +1,6 @@
 Install a new project
 `npx create-next-app@latest`
+Use `npx create-next-app@latest .` to create the project the current folder.
 
 ### Nextjs in Node Containers
 [[Initializing dev containers]]
@@ -10,6 +11,14 @@ Add the following code to the next.config.js file
 module.exports = { distDir: 'build',}
 ```
 
+<<<<<<< HEAD
+### Build Process
+use the command `npx next build` to create a production build of the next js app.
+
+### Start the app
+Use the command `npx next start` to start the build of the app.
+
+=======
 ### Running the Production build in the background and ending it when needed
 
 To run an npm script in the background, you can use the `&` operator at the end of the command. The `&` operator allows the command to run in the background, allowing you to continue using the terminal for other tasks.
@@ -41,3 +50,4 @@ kill <PID>
 ```
 
 Please note that running background processes comes with its own considerations and you should ensure that it's appropriate for your specific use case and environment.
+>>>>>>> origin2/main
