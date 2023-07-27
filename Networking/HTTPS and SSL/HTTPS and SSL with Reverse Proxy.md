@@ -11,3 +11,8 @@ To give you an example of my setup. I have an Nginx proxy server in front of my 
 3. Configure your web sites on Apache to accept both SSL connections (using the certificate you generated in step 2) and normal http connections.
 4. On the Nginx server, proxy to the Apache server using [http://apache.server.ip](http://apache.server.ip/ "apache.server.ip").
 5. If you require high security (you don’t trust your private network), then on the Nginx server, proxy to the Apache server using https://apache.server.ip
+
+### Next js Reverse Proxy and SSL
+#nextjs #docker
+How can I use an SSL certificate with my Next JS deployment? -> https://stackoverflow.com/questions/71582740/how-can-i-use-an-ssl-certificate-with-my-next-js-deployment
+https://stackoverflow.com/questions/74185594/how-to-deploy-a-next-js-app-on-https-ssl-connection-with-docker
