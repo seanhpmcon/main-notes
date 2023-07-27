@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git and GitHub/Git Bare Repository/Pull changes and merge from Bare Git Repository.md",
+                "file": "Git and GitHub/Fetch changes from GitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git and GitHub/Git Bare Repository/Pull changes and merge from Bare Git Repository.md",
+                "file": "Git and GitHub/Fetch changes from GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git and GitHub/Git Bare Repository/Pull changes and merge from Bare Git Repository.md",
+                "file": "Git and GitHub/Fetch changes from GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git and GitHub/Git Bare Repository/Pull changes and merge from Bare Git Repository.md"
+                "file": "Git and GitHub/Fetch changes from GitHub.md"
               }
             }
           }
@@ -148,13 +148,16 @@
   },
   "active": "755c88d623ec30fc",
   "lastOpenFiles": [
-    "Git and GitHub/Git Bare Repository/Push changes to Bare Repository.md",
-    "Git and GitHub/Git Bare Repository/Pull changes and merge from Bare Git Repository.md",
-    "Git and GitHub/Git Bare Repository/Initialize Bare Repository.md",
     "Git and GitHub/Applying local changes to GitHub.md",
+    "Git and GitHub/A Git Repository.md",
+    "Windows/Running Apps/Running Apps General.md",
+    "Git and GitHub/Pushing Changes to GitHub.md",
+    "Windows/Running Apps",
+    "Git and GitHub/Git Bare Repository/Pull changes and merge from Bare Git Repository.md",
+    "Git and GitHub/Git Bare Repository/Push changes to Bare Repository.md",
+    "Git and GitHub/Git Bare Repository/Initialize Bare Repository.md",
     "Git and GitHub/Pulling changes from GitHub.md",
     "Git and GitHub/Git Bare Repository",
-    "Git and GitHub/Pushing Changes to GitHub.md",
     "Nextjs/Work Production Build with Nginx.md",
     "Nextjs/Setup.md",
     "Nextjs/Authentication and Authorization/Nextauth.md",
@@ -171,7 +174,6 @@
     "Python",
     "Git and GitHub/Setup of local git repository for collaboration.md",
     "Git and GitHub/Git Protocols for communication over the network.md",
-    "Git and GitHub/A Git Repository.md",
     "Windows/Visual Studio/Solution File Explained.md",
     "Networking/SNMP/General SNMP Notes.md",
     "Windows/Visual Studio",
@@ -180,10 +182,8 @@
     "IoT/General Glossary Terms.md",
     "IoT",
     "PHP/Untitled",
-    "Communication/I2C/Communication on Devices.md",
     "Communication/I2C",
     "C++/G++ Compiler",
-    "C++",
     "Untitled.canvas"
   ]
 }
