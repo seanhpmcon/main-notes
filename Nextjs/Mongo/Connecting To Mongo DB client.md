@@ -1,4 +1,4 @@
-Install the moingdb package
+Install the mongdb package
 
 Create a file to handle the database connection and return the database
 ```js
