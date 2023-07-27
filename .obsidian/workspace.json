@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nextjs/Mongo/Connecting To Mongo DB client.md",
+                "file": "Communication/Application Layer/TR-069 & CWMP/General Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nextjs/Mongo/Connecting To Mongo DB client.md",
+                "file": "Communication/Application Layer/TR-069 & CWMP/General Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nextjs/Mongo/Connecting To Mongo DB client.md",
+                "file": "Communication/Application Layer/TR-069 & CWMP/General Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nextjs/Mongo/Connecting To Mongo DB client.md"
+                "file": "Communication/Application Layer/TR-069 & CWMP/General Notes.md"
               }
             }
           }
@@ -148,6 +148,28 @@
   },
   "active": "755c88d623ec30fc",
   "lastOpenFiles": [
+    "Nextjs/JavaScript and Nextjs/Passing a variable from Nextjs to JavaScript.md",
+    "Communication/Application Layer/TR-069 & CWMP/General Notes.md",
+    "Communication/Application Layer/TR-069 & CWMP",
+    "Communication/Application Layer",
+    "Databases/MariaDB-MySQL/Get Size of Database.md",
+    "Databases/SQL Server/Get size of SQL Server database.md",
+    "Databases/MariaDB-MySQL",
+    "Networking/SNMP/SNMP Communication.md",
+    "Networking/HTTPS and SSL/SSL and HTTPS in Web Browsers.md",
+    "Networking/Untitled",
+    "Networking/DNS/Windows DNS Setup.md",
+    "Web-Internet/Standards/W3",
+    "Web-Internet/Standards/WHATWG",
+    "Web-Internet/Standards",
+    "Web-Internet",
+    "Windows/winscp",
+    "Networking/HTTPS and SSL/Thoughts.md",
+    "Networking/DNS",
+    "Networking/HTTPS and SSL/HTTPS and SSL with Reverse Proxy.md",
+    "Docker/General Docker.md",
+    "Docker/Connection issues.md",
+    "Nextjs/Mongo/Connecting To Mongo DB client.md",
     "Nextjs/Production Build.md",
     "Nextjs/Setup.md",
     "Nextjs/Work Production Build with Nginx.md",
@@ -156,34 +178,12 @@
     "Databases/SQL Server/SQL Server Container.md",
     "Git and GitHub/Fetch changes from GitHub.md",
     "Nodejs/Linux Setup.md",
-    "Nodejs",
-    "Nextjs/Mongo/Connecting To Mongo DB client.md",
-    "Nextjs/Mongo",
     "Nextjs/Configurations/Next Config.md",
-    "Nextjs/Configurations",
-    "Networking/HTTPS and SSL/HTTPS and SSL with Reverse Proxy.md",
     "Networking/HTTPS and SSL/HTTPS and SSL with Multiple Servers across a Load Balancer.md",
-    "Networking/HTTPS and SSL",
-    "Databases/SQL Server",
     "Git and GitHub/Applying local changes to GitHub.md",
     "Git and GitHub/A Git Repository.md",
     "Windows/Running Apps/Running Apps General.md",
     "Git and GitHub/Pushing Changes to GitHub.md",
-    "Windows/Running Apps",
-    "Git and GitHub/Git Bare Repository/Pull changes and merge from Bare Git Repository.md",
-    "Git and GitHub/Git Bare Repository/Push changes to Bare Repository.md",
-    "Git and GitHub/Git Bare Repository/Initialize Bare Repository.md",
-    "Git and GitHub/Pulling changes from GitHub.md",
-    "Git and GitHub/Git Bare Repository",
-    "Nextjs/Authentication and Authorization/Nextauth.md",
-    "Authentication and Authorization/Keycloak/Nextauth Implementation.md",
-    "Authentication and Authorization/Okta/General Notes.md",
-    "PHP/LDAP/General Notes.md",
-    "Authentication and Authorization Work/LDAP.md",
-    "Docker/VS Code Dev Containers/Initializing dev containers.md",
-    "Python/Django",
-    "Python",
-    "Windows/Visual Studio",
     "Untitled.canvas"
   ]
 }

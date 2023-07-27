@@ -39,3 +39,22 @@ By retrieving the `data-variable` attribute value from the container element usi
 Using data attributes provides a way to pass data from the Next.js component to an external JavaScript file in a structured and accessible manner.
 
 Note that this approach assumes the external script is loaded and executed after the component is rendered and the container element is available in the DOM. Ensure that the external script is loaded at the appropriate time, either directly in the Next.js page or using other mechanisms like the `useEffect` hook or the `onLoad` event of the `<script>` tag.
+
+### Adding JavaScript to Nextjs
+Using React hook useEffect:
+```js
+import React, { useEffect } from 'react'; 
+const MyComponent = () => { 
+useEffect(() => {
+const element = document.getElementById('myElement'); 
+if (element) { 
+// Manipulate the element or perform actions here 
+element.textContent = 'Updated content';
+} }, []); 
+return ( <div> 
+		<p id="myElement">Original content</p> 
+		</div> 
+		); 
+		}; 
+		export default MyComponent;
+```
