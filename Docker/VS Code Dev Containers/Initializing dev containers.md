@@ -6,3 +6,6 @@ Create a docker container with a volume mapping to the `/usr/src/app` directory 
 
 ### Nextjs in Node Containers
 `docker run -it --name nextjs-container-name -p 3000:3000 -v ${PWD}:/workspace node`
+
+### Nginx Containers
+`docker run --name nginx-instance -p 8001:80 -v ${PWD}:/workspace nginx`

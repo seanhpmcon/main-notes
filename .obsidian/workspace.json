@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/General Docker.md",
+                "file": "Web Servers/Nginx/Nginx Reverse Proxy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/General Docker.md",
+                "file": "Web Servers/Nginx/Nginx Reverse Proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/General Docker.md",
+                "file": "Web Servers/Nginx/Nginx Reverse Proxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/General Docker.md"
+                "file": "Web Servers/Nginx/Nginx Reverse Proxy.md"
               }
             }
           }
@@ -148,19 +148,28 @@
   },
   "active": "755c88d623ec30fc",
   "lastOpenFiles": [
-    "Databases/Mongodb/Mongo-db Container.md",
+    "Nextjs/PM2/Configuration.md",
+    "Web Servers/Nginx/Nginx Reverse Proxy.md",
+    "Web Servers/Nginx",
+    "Web Servers",
+    "Nextjs/Work Production Build with Nginx.md",
+    "Nextjs/Using Require.md",
+    "Nextjs/Setup.md",
+    "Nextjs/Production Build.md",
+    "Nodejs/Linux Setup.md",
+    "Docker/VS Code Dev Containers/Initializing dev containers.md",
+    "Nextjs/JavaScript and Nextjs/Passing a variable from Nextjs to JavaScript.md",
+    "Nextjs/Pagination/Client -Side Pagination.md",
+    "Nextjs/Pagination/Server-Side Pagination.md",
+    "Nextjs/Pagination",
     "Docker/General Docker.md",
+    "Nextjs/PM2",
+    "Databases/Mongodb/Mongo-db Container.md",
     "Databases/Mongodb",
     "Docker/Connection issues.md",
     "Web-Internet/Formats/Sending PDFs in HTTP.md",
-    "Nextjs/Setup.md",
-    "Nextjs/Using Require.md",
     "Web-Internet/Formats",
     "Web-Internet",
-    "Nodejs/Linux Setup.md",
-    "Nextjs/JavaScript and Nextjs/Passing a variable from Nextjs to JavaScript.md",
-    "Nextjs/Work Production Build with Nginx.md",
-    "Nextjs/Production Build.md",
     "Communication/Application Layer/TR-069 & CWMP/General Notes.md",
     "Git and GitHub/Pulling changes from GitHub.md",
     "Windows/Running Apps/Running Apps General.md",
@@ -173,17 +182,8 @@
     "Databases/SQL Server/Get size of SQL Server database.md",
     "Databases/MariaDB-MySQL/Get Size of Database.md",
     "Databases/MariaDB-MySQL",
-    "Communication/Application Layer/TR-069 & CWMP",
-    "Communication/Application Layer",
     "Git and GitHub/Pushing Changes to GitHub.md",
     "Networking/HTTPS and SSL/HTTPS and SSL with Multiple Servers across a Load Balancer.md",
-    "Networking/HTTPS and SSL/HTTPS and SSL with Reverse Proxy.md",
-    "Networking/HTTPS and SSL",
-    "Databases/SQL Server/SQL Server Container.md",
-    "Nextjs/Mongo/Connecting To Mongo DB client.md",
-    "Databases/SQL Server",
-    "Nextjs/Configurations/Next Config.md",
-    "Docker/VS Code Dev Containers/Initializing dev containers.md",
     "Untitled.canvas"
   ]
 }
