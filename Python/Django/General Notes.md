@@ -11,3 +11,6 @@ When serializing raw SQL queries, create nested serializers for all the fields i
 ### Resource Links
 1. How to connect Django to an existing database -> https://rafed.github.io/devra/posts/database/how-to-connect-django-to-existing-database/
 2. How to use Django with an existing database -> https://djangoadventures.com/how-to-integrate-django-with-existing-database/
+
+### Running in Containers
+When running in a container, use the base URL as 0.0.0.0:8000 in the run command as: `python manage.py runserver 0.0.0.0:8000`

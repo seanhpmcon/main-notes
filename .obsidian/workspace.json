@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "f2a3461a788ed99f",
+    "id": "d76c192649d4aa6b",
     "type": "split",
     "children": [
       {
-        "id": "db8b0e547e5b9735",
+        "id": "674e227592a8c22a",
         "type": "tabs",
         "children": [
           {
-            "id": "755c88d623ec30fc",
+            "id": "6c4e21062e895c44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Django/Setup Python Container.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48a6fc5ac330bcd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git and GitHub/Fetch changes from GitHub.md",
+                "file": "Nextjs/Prisma/Setup Prisma in a Nextjs app.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8d4d46a16b39ff09",
+    "id": "0dde539aac76734e",
     "type": "split",
     "children": [
       {
-        "id": "ed4c28657cc79d45",
+        "id": "906ad28dc53864f2",
         "type": "tabs",
         "children": [
           {
-            "id": "ea1b91e076930b57",
+            "id": "ae1bf01f7497d570",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "8c69defaa2601285",
+            "id": "fdf61c1ad0826599",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "80fa9409ba4353c0",
+            "id": "fa93dd009ddc52cf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "ab4e608179371825",
+    "id": "851642a76b5b2770",
     "type": "split",
     "children": [
       {
-        "id": "c108bbcf299b5c52",
+        "id": "39149ca6d0ad4d5e",
         "type": "tabs",
         "children": [
           {
-            "id": "65af9efd90d98465",
+            "id": "e4fc676b01231923",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git and GitHub/Fetch changes from GitHub.md",
+                "file": "Nextjs/Prisma/Setup Prisma in a Nextjs app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +97,19 @@
             }
           },
           {
-            "id": "c66ff89d40744f5e",
+            "id": "768ae0a4a17d6bb1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git and GitHub/Fetch changes from GitHub.md",
+                "file": "Nextjs/Prisma/Setup Prisma in a Nextjs app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2625919e7fa54edc",
+            "id": "8a177fabf7165b9a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +120,12 @@
             }
           },
           {
-            "id": "f3f51ec288c9c690",
+            "id": "4004e5bd9d7eb4bd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git and GitHub/Fetch changes from GitHub.md"
+                "file": "Nextjs/Prisma/Setup Prisma in a Nextjs app.md"
               }
             }
           }
@@ -159,44 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48a6fc5ac330bcd8",
+  "active": "6c4e21062e895c44",
   "lastOpenFiles": [
-    "Python/Container Setup.md",
-    "Python/Django/Setup Python Container.md",
-    "Python/Django/General Notes.md",
-    "Databases/MariaDB-MySQL/Get Size of Database.md",
-    "Databases/SQL Server/Get size of SQL Server database.md",
-    "Databases/Postgres/Backups.md",
-    "Databases/Postgres/Postgres Docker.md",
-    "Web-Internet/Formats/Sending PDFs in HTTP.md",
-    "Nextjs/JavaScript and Nextjs/Passing a variable from Nextjs to JavaScript.md",
-    "Windows/Running Apps/Running Apps General.md",
-    "Databases/SQL Server/SQL Server Container.md",
-    "Python/Django/Install and Setup Restframework.md",
-    "Nextjs/Setup.md",
-    "Web-Internet/Formats",
-    "Nextjs/Configurations/Next Config.md",
-    "Nextjs/Work Production Build with Nginx.md",
     "Nextjs/Production Build.md",
-    "Docker/VS Code Dev Containers/Initializing dev containers.md",
-    "Communication/Application Layer/TR-069 & CWMP/General Notes.md",
-    "Communication/Application Layer/TR-069 & CWMP",
-    "Communication/Application Layer",
-    "Databases/MariaDB-MySQL",
-    "Networking/SNMP/SNMP Communication.md",
-    "Networking/HTTPS and SSL/SSL and HTTPS in Web Browsers.md",
-    "Networking/Untitled",
-    "Networking/DNS/Windows DNS Setup.md",
-    "Web-Internet/Standards/W3",
-    "Web-Internet/Standards/WHATWG",
-    "Web-Internet/Standards",
-    "Web-Internet",
-    "Windows/winscp",
-    "Networking/HTTPS and SSL/Thoughts.md",
-    "Networking/HTTPS and SSL/HTTPS and SSL with Reverse Proxy.md",
-    "Docker/General Docker.md",
-    "Docker/Connection issues.md",
-    "Nextjs/Mongo/Connecting To Mongo DB client.md",
-    "Untitled.canvas"
+    "Nextjs/Work Production Build with Nginx.md",
+    "Nextjs/Using Require.md",
+    "Nextjs/Setup.md",
+    "Nextjs/PM2/Commands.md",
+    "Git and GitHub/Fetch changes from GitHub.md",
+    "Git and GitHub/Pulling changes from GitHub.md"
   ]
 }
