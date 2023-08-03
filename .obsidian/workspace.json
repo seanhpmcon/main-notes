@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Running Apps/Running Apps General.md",
+                "file": "Python/Django/Setup Python Container.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48a6fc5ac330bcd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git and GitHub/Fetch changes from GitHub.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Running Apps/Running Apps General.md",
+                "file": "Git and GitHub/Fetch changes from GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Running Apps/Running Apps General.md",
+                "file": "Git and GitHub/Fetch changes from GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Running Apps/Running Apps General.md"
+                "file": "Git and GitHub/Fetch changes from GitHub.md"
               }
             }
           }
@@ -146,22 +159,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "755c88d623ec30fc",
+  "active": "48a6fc5ac330bcd8",
   "lastOpenFiles": [
-    "Databases/SQL Server/Get size of SQL Server database.md",
-    "Databases/MariaDB-MySQL/Get Size of Database.md",
-    "Databases/SQL Server/SQL Server Container.md",
-    "Python/Django/General Notes.md",
-    "Python/Django/Install and Setup Restframework.md",
+    "Python/Container Setup.md",
     "Python/Django/Setup Python Container.md",
+    "Python/Django/General Notes.md",
+    "Databases/MariaDB-MySQL/Get Size of Database.md",
+    "Databases/SQL Server/Get size of SQL Server database.md",
+    "Databases/Postgres/Backups.md",
+    "Databases/Postgres/Postgres Docker.md",
     "Web-Internet/Formats/Sending PDFs in HTTP.md",
+    "Nextjs/JavaScript and Nextjs/Passing a variable from Nextjs to JavaScript.md",
+    "Windows/Running Apps/Running Apps General.md",
+    "Databases/SQL Server/SQL Server Container.md",
+    "Python/Django/Install and Setup Restframework.md",
     "Nextjs/Setup.md",
     "Web-Internet/Formats",
     "Nextjs/Configurations/Next Config.md",
     "Nextjs/Work Production Build with Nginx.md",
     "Nextjs/Production Build.md",
     "Docker/VS Code Dev Containers/Initializing dev containers.md",
-    "Nextjs/JavaScript and Nextjs/Passing a variable from Nextjs to JavaScript.md",
     "Communication/Application Layer/TR-069 & CWMP/General Notes.md",
     "Communication/Application Layer/TR-069 & CWMP",
     "Communication/Application Layer",
@@ -180,10 +197,6 @@
     "Docker/General Docker.md",
     "Docker/Connection issues.md",
     "Nextjs/Mongo/Connecting To Mongo DB client.md",
-    "Databases/Postgres/Postgres Docker.md",
-    "Databases/Postgres/Backups.md",
-    "Git and GitHub/Fetch changes from GitHub.md",
-    "Nodejs/Linux Setup.md",
     "Untitled.canvas"
   ]
 }
