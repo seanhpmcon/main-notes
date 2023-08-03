@@ -1,0 +1,1 @@
+GPG is a Linux encrypting tool used to encrypt packages. When installing a package you can use GPG keys downloaded from key servers like `hkp://keyserver.ubuntu.com` to verify the signature of the package and ensure it is trusted and valid.

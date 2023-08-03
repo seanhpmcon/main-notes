@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nextjs/Prisma/Setup Prisma in a Nextjs app.md",
+                "file": "Communication/Application Layer/HTTP Protocol/hkp Protocol/General.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nextjs/Prisma/Setup Prisma in a Nextjs app.md",
+                "file": "Communication/Application Layer/HTTP Protocol/hkp Protocol/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nextjs/Prisma/Setup Prisma in a Nextjs app.md",
+                "file": "Communication/Application Layer/HTTP Protocol/hkp Protocol/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nextjs/Prisma/Setup Prisma in a Nextjs app.md"
+                "file": "Communication/Application Layer/HTTP Protocol/hkp Protocol/General.md"
               }
             }
           }
@@ -148,12 +148,35 @@
   },
   "active": "6c4e21062e895c44",
   "lastOpenFiles": [
+    "Linux/Encryption and Decryption.md",
+    "Communication/Application Layer/HTTP Protocol/hkp Protocol/General.md",
+    "Communication/Application Layer/HTTP Protocol/hkp Protocol",
+    "Communication/Application Layer/HTTP Protocol",
+    "PHP/Installing PHP modules in Containers.md",
+    "PHP/LDAP/General Notes.md",
+    "Authentication and Authorization Work/LDAP.md",
+    "PHP/HTTP Methods/General Notes.md",
+    "Docker/VS Code Dev Containers/Initializing dev containers.md",
+    "Docker/General Docker.md",
+    "Docker/Connection issues.md",
+    "Web Servers/Apache/PHP APACHE CRM Site Configuration.md",
+    "Git and GitHub/Git Bare Repository/Pull changes and merge from Bare Git Repository.md",
+    "Web Servers/Untitled.md",
+    "Web Servers/Apache",
+    "Windows/Changing Directories.md",
+    "Git and GitHub/Git Bare Repository/Push changes to Bare Repository.md",
+    "Git and GitHub/A Git Repository.md",
+    "Git and GitHub/Applying local changes to GitHub.md",
+    "Git and GitHub/Setup of local git repository for collaboration.md",
+    "Git and GitHub/Git Bare Repository/Initialize Bare Repository.md",
+    "Nextjs/Objects/Request Object.md",
+    "Nextjs/Prisma/Setup Prisma in a Nextjs app.md",
+    "Nextjs/Objects",
     "Nextjs/Production Build.md",
     "Nextjs/Work Production Build with Nginx.md",
     "Nextjs/Using Require.md",
     "Nextjs/Setup.md",
     "Nextjs/PM2/Commands.md",
-    "Git and GitHub/Fetch changes from GitHub.md",
-    "Git and GitHub/Pulling changes from GitHub.md"
+    "Git and GitHub/Fetch changes from GitHub.md"
   ]
 }
