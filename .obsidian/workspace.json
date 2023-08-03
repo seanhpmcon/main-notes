@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Application Layer/HTTP Protocol/hkp Protocol/General.md",
+                "file": "PHP/Docker Containers/Installing PHP extensions in Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Application Layer/HTTP Protocol/hkp Protocol/General.md",
+                "file": "PHP/Docker Containers/Installing PHP extensions in Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Application Layer/HTTP Protocol/hkp Protocol/General.md",
+                "file": "PHP/Docker Containers/Installing PHP extensions in Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Application Layer/HTTP Protocol/hkp Protocol/General.md"
+                "file": "PHP/Docker Containers/Installing PHP extensions in Docker.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "6c4e21062e895c44",
   "lastOpenFiles": [
-    "Linux/Encryption and Decryption.md",
     "Communication/Application Layer/HTTP Protocol/hkp Protocol/General.md",
+    "PHP/Docker Containers/Installing PHP extensions in Docker.md",
+    "PHP/Docker Containers",
+    "Linux/Encryption and Decryption.md",
     "Communication/Application Layer/HTTP Protocol/hkp Protocol",
     "Communication/Application Layer/HTTP Protocol",
     "PHP/Installing PHP modules in Containers.md",
@@ -176,7 +178,6 @@
     "Nextjs/Work Production Build with Nginx.md",
     "Nextjs/Using Require.md",
     "Nextjs/Setup.md",
-    "Nextjs/PM2/Commands.md",
-    "Git and GitHub/Fetch changes from GitHub.md"
+    "Nextjs/PM2/Commands.md"
   ]
 }
