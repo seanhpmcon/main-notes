@@ -82,3 +82,14 @@ Use the command `npm prisma generate` to generate the prisma client
 
 ### Issues with Database table names
 Use `@@map(name: "actor")` to map the correct name of the table in the database
+
+### For creating database tables from Prisma Models
+Create the initial migration that creates the database tables based on your schema defines
+```shell
+npx prisma migrate dev --name init
+```
+
+Apply the migrations to create the database tables
+```bash
+npx prisma migrate deploy
+```
