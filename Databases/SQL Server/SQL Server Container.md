@@ -11,3 +11,6 @@ NOTE: the user for the database above would be 'sa'
 Manage linked servers in SQL Server Management Studio since DBeaver doesn't have the fields displayed for it to work
 
 Aliasing Linked server tables by the LinkServerName.Database.dbo.Table
+
+### Connecting to a SQL Server container instance
+To connect to the instance in Management Studio, use the following syntax `IPaddress,port` . This is also the syntax for creating a connection to a linked server.
