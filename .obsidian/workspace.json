@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/Docker Containers/Installing PHP extensions in Docker.md",
+                "file": "PHP/Docker Containers/Installing Apache-PHP container.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/Docker Containers/Installing PHP extensions in Docker.md",
+                "file": "PHP/Docker Containers/Installing Apache-PHP container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP/Docker Containers/Installing PHP extensions in Docker.md",
+                "file": "PHP/Docker Containers/Installing Apache-PHP container.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP/Docker Containers/Installing PHP extensions in Docker.md"
+                "file": "PHP/Docker Containers/Installing Apache-PHP container.md"
               }
             }
           }
@@ -148,17 +148,20 @@
   },
   "active": "6c4e21062e895c44",
   "lastOpenFiles": [
-    "Communication/Application Layer/HTTP Protocol/hkp Protocol/General.md",
+    "Docker/VS Code Dev Containers/Initializing dev containers.md",
+    "PHP/Docker Containers/Installing Apache-PHP container.md",
     "PHP/Docker Containers/Installing PHP extensions in Docker.md",
+    "PHP/Installing PHP modules in Containers.md",
+    "PHP/LDAP/General Notes.md",
+    "PHP/Sessions/General Notes.md",
+    "PHP/Connecting with JavaScript.md",
+    "Communication/Application Layer/HTTP Protocol/hkp Protocol/General.md",
     "PHP/Docker Containers",
     "Linux/Encryption and Decryption.md",
     "Communication/Application Layer/HTTP Protocol/hkp Protocol",
     "Communication/Application Layer/HTTP Protocol",
-    "PHP/Installing PHP modules in Containers.md",
-    "PHP/LDAP/General Notes.md",
     "Authentication and Authorization Work/LDAP.md",
     "PHP/HTTP Methods/General Notes.md",
-    "Docker/VS Code Dev Containers/Initializing dev containers.md",
     "Docker/General Docker.md",
     "Docker/Connection issues.md",
     "Web Servers/Apache/PHP APACHE CRM Site Configuration.md",
@@ -175,9 +178,6 @@
     "Nextjs/Prisma/Setup Prisma in a Nextjs app.md",
     "Nextjs/Objects",
     "Nextjs/Production Build.md",
-    "Nextjs/Work Production Build with Nginx.md",
-    "Nextjs/Using Require.md",
-    "Nextjs/Setup.md",
-    "Nextjs/PM2/Commands.md"
+    "Nextjs/Work Production Build with Nginx.md"
   ]
 }
