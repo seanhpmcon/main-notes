@@ -9,3 +9,6 @@ Create a docker container with a volume mapping to the `/usr/src/app` directory 
 
 ### Nginx Containers
 `docker run --name nginx-instance -p 8001:80 -v ${PWD}:/workspace nginx`
+
+### Apache-PHP Containers
+[[Installing Apache-PHP container]]
