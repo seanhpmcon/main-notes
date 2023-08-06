@@ -22,6 +22,7 @@ model User {
   name  String?
 }
 ```
+**Create the database URL variable in a .env file**
 
 ### Create a Prisma Client file 
 Create the file in the root directory `lib/prisma.js`
@@ -45,6 +46,7 @@ export default prisma;
 
 ### Import the Prisma client and make requests
 Use the follow import `import prisma from "@/lib/prisma";`
+Look at [[Path configurations]] for path configuration.
 Example database query functions:
 ```js
 export default async function getUsers(page) {
@@ -78,7 +80,8 @@ return products;
 ```
 
 ### Generate the Prisma Client
-Use the command `npm prisma generate` to generate the prisma client
+Use the command `npx prisma generate` to generate the prisma client.
+This is import for prima to generate the code required based on the schema. This is need even if you connect to an existing database.
 
 ### Issues with Database table names
 Use `@@map(name: "actor")` to map the correct name of the table in the database
