@@ -1,0 +1,2 @@
+### Image no rendering in production
+There's some problems people had with images not loading in production and they had to revert to 13.2.4 without app router but I was able to get it to render by adding the domain of the image,
