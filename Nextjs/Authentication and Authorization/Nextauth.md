@@ -21,3 +21,5 @@ export default function Home() {
   )
 }
 ```
+
+The callback URL for the Oauth Authentication Providers should be `{url-where-next-auth-is}/api/auth/callback/{provider}`.
