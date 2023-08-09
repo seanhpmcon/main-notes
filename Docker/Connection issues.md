@@ -1,1 +1,1 @@
-The best way to ensure proper connection to you docker containers is to use the WSL IP address
+The best way to ensure proper connection to you docker containers is to use the **WSL IP address** e.g. 172.24.160.1
