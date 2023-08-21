@@ -1,0 +1,4 @@
+You don’t specifically need to activate a virtual environment, as you can just specify the full path to that environment’s Python interpreter when invoking Python. Furthermore, all scripts installed in the environment should be runnable without activating it.
+
+In order to achieve this, scripts installed into virtual environments have a “shebang” line which points to the environment’s Python interpreter, i.e. #!//bin/python. This means that the script will run with that interpreter regardless of the value of PATH. On Windows, “shebang” line processing is supported if you have the Python Launcher for Windows installed. Thus, double-clicking an installed script in a Windows Explorer window should run it with the correct interpreter without the environment needing to be activated or on the PATH.
+

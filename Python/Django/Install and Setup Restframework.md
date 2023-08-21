@@ -19,5 +19,5 @@ Run the following command `python manage.py createsuperuser` and enter the requi
 Create an admin.py file and import the models you want displayed in the admin page there
 
 ### Access the development server outside the container
-Set the `ALLOWED_HOSTS = ['*']` property in the setting.py file
+Set the `ALLOWED_HOSTS = ['*']` property in the setting.py file. Or is this don't by [[Python/Django/General Notes|General Notes]]
 
