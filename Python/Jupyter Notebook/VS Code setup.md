@@ -1,0 +1,1 @@
+Install the `jupyter` package and install the `ipykernel` package.
