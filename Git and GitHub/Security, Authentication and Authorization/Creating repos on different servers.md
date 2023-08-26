@@ -1,0 +1,1 @@
+Use `git config --global --add safe.directory "*"` to be able to use git action like add from a different computer. Make sure the quotes are double quotes `""`
