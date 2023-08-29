@@ -4,7 +4,7 @@ Packages to install:
 3. install the required database drivers/packages
 
 ### Setup
-Setup a Django project -> `django-=admin startproject project-name .` 
+Setup a Django project -> `django-admin startproject project-name .` 
 The dot (.) builds the project ion the working directory without creating a new folder.
 
 ### Configure the installed apps
