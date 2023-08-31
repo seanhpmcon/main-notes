@@ -27,3 +27,5 @@ if ($ldapconn) {
 
 ?>
 ```
+
+Instead of prepending `PMCON\` to the username, you can add the domain `@domain` to the end of the username.
