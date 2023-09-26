@@ -5,14 +5,16 @@
 ### PYODBC
 ```python
 conn_str = ("Driver={ODBC Driver 17 for SQL Server};"
-
             "Server=QPPSL-WS-13;"
-
             "Database=crm_version_test;"
-
             "Trusted_Connection=yes;")
-
 conn = pyodbc.connect(conn_str)
-
 cursor = conn.cursor()
+
+conn_str = ("Driver={ODBC Driver 17 for SQL Server};"
+            "Server=TTBRCDB001;"
+            "Database=CRM_DATA_PRD;"
+            "UID=User_ID;"
+            "PWD=Password;"
+            "Trusted_Connection=yes;")
 ```
