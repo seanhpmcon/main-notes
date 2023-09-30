@@ -1,4 +1,4 @@
-#sockets
+#sockets #gunicorn 
 Define the socket configuration in the gunicorn.socket file like
 ```
 [Unit]
