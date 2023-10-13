@@ -1,0 +1,1 @@
+When opening a project that is on the server, make sure the project is checked in. When you click the "Edit" button, you should see the option to open in Browser or in Local Projects App.

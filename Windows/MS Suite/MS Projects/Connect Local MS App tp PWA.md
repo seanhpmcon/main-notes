@@ -1,0 +1,1 @@
+1. In the "Info" tab, setup the connection to the PWA server.
