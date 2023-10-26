@@ -15,6 +15,6 @@ conn_str = ("Driver={ODBC Driver 17 for SQL Server};"
             "Server=TTBRCDB001;"
             "Database=CRM_DATA_PRD;"
             "UID=User_ID;"
-            "PWD=Password;"
-            "Trusted_Connection=yes;")
+            "PWD=Password;")
 ```
+**NOTE** - `Trusted_Connection=yes` is authentication using Windows Login User
