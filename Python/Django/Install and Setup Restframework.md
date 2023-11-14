@@ -5,7 +5,7 @@ Packages to install:
 
 ### Setup
 Setup a Django project -> `django-admin startproject project-name .` 
-The dot (.) builds the project ion the working directory without creating a new folder.
+The dot (.) builds the project in the working directory without creating a new folder.
 
 ### Configure the installed apps
 add the names of the apps used to the INSTALLED_APPS list like 'rest_framework'
